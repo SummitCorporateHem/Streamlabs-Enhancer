@@ -1,0 +1,26 @@
+{
+  "repo": "streamlabs-enhancer",
+  "product": "Streamlabs Enhancer",
+  "kind": "video",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "200-repo-zaliv-32",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "video-editing",
+  "topics": [
+    "streamlabs-enhancer",
+    "streamlabs-desktop",
+    "streamlabs-windows",
+    "video-editing",
+    "timeline-editing",
+    "color-grading",
+    "video-export",
+    "content-creation",
+    "youtube-editing",
+    "desktop-video",
+    "windows-video-editor",
+    "media-production",
+    "render-workflow"
+  ],
+  "site": "mylunora.art"
+}
